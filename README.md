@@ -37,7 +37,7 @@ ___
 ### 💻 ตัวอย่างเว็บไซต์
 
 1. หน้าแรก
-![index]()
+![index](https://github.com/Adisak-KS/Workshop-Sticky-Navigation/blob/main/previews/pre-1.png)
 
 2. เมื่อ Scroll เว็บไซต์
-![index]()
+![index](https://github.com/Adisak-KS/Workshop-Sticky-Navigation/blob/main/previews/pre-2.png)
